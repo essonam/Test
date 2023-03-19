@@ -29,6 +29,11 @@ class MainActivity : ComponentActivity() {
                 val context = LocalContext.current
                 Button(onClick = { openAppSettings()}) {
                     Text(text = "appui man")
+
+
+
+
+
                 }
             }
         }
