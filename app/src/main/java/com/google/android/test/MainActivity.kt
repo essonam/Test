@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 
 
 
-                today is a good day
+
                 }
             }
         }
